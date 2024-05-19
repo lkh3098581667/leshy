@@ -90,8 +90,8 @@
     "DESCRIPTION": "图腾给予特定部族的生物一个特定的符印。新的图腾头或基座会覆盖之前的。"
   },
   {
-    "PROPER_NAME": "锋利刺",
-    "NAMES": ["锋利刺", "sharp quills", "Sharp_Quills", "sharp_quills"],
+    "PROPER_NAME": "尖刺铠甲",
+    "NAMES": ["尖刺铠甲", "sharp quills", "Sharp_Quills", "sharp_quills"],
     "DESCRIPTION": "当这张卡在场上时，获得3个荆棘。"
   },
   {
@@ -120,7 +120,7 @@
   {
     "PROPER_NAME": "寄生繁殖",
     "NAMES": ["寄生繁殖", "brood parasite", "Brood_Parasite", "brood_parasite"],
-    "DESCRIPTION": "当召唤时，对#y目标敌人施加破碎的蛋。他们造成的伤害减少50%，并防止下次受到伤害。"
+    "DESCRIPTION": "当召唤时，对 #y目标敌人施加破碎的蛋。他们造成的伤害减少50%，并防止下次受到伤害。"
   },
   {
     "PROPER_NAME": "断尾求生",
@@ -133,12 +133,12 @@
     "DESCRIPTION": "当召唤时，添加一张带有瞬逝的工蚁到你的手牌。"
   },
   {
-    "PROPER_NAME": "囤积狂",
-    "NAMES": ["囤积狂", "trinket bearer", "Trinket_Bearer", "trinket_bearer"],
+    "PROPER_NAME": "道具商",
+    "NAMES": ["道具商", "trinket bearer", "Trinket_Bearer", "trinket_bearer"],
     "DESCRIPTION": "每次战斗中第一次召唤这张卡时，获得一个随机药水。"
   },
   {
-    "NAMES": ["狂暴者", "rampager"],
+    "NAMES": ["冲刺能手", "rampager"],
     "DESCRIPTION": "回合结束时，这张卡会向一个方向移动。"
   },
   {
@@ -236,7 +236,7 @@
   {
     "PROPER_NAME": "慰藉松鼠",
     "NAMES": ["慰藉松鼠", "consolation squirrel", "Consolation_Squirrel", "consolation_squirrel"],
-    "DESCRIPTION": "战斗开始时，每超过基线的最大[E]，获得一个额外的松鼠。"
+    "DESCRIPTION": "战斗开始时，每超过最大[E]，获得一个额外的松鼠。"
   }
 ]
 
